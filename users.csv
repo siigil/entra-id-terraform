@@ -1,0 +1,21 @@
+first_name,last_name,department,job_title,type,entra,rbac
+Lilah,Ray,Distribution,Manager,Member,None,Owner
+Layton,Pollard,Distribution,Analyst,Member,Lifecycle Workflows Administrator,Contributor
+Asher,Montgomery,Distribution,Analyst,Member,None,Contributor
+Christopher,Lowery,HR,Analyst,Member,None,None
+Estelle,Quinn,HR,Manager,Member,None,None
+Jasper,Carrillo,HR,Analyst,Member,None,None
+Kathryn,Atkins,Payroll,Analyst,Member,None,None
+Kingsley,Gardner,Business Development,Engineer,Member,None,None
+Nathan,Franklin,IT,Engineer,Member,Authentication Administrator,None
+Ashley,Carr,IT,Manager,Member,Global Administrator,None
+Ramon,Silva,IT,Engineer,Member,Privileged Authentication Administrator,None
+Amy,Bowen,Research,Engineer,Member,None,None
+Kole,Rivers,Research,Engineer,Member,None,None
+Oliver,Mercado,Production,Engineer,Member,None,None
+Madeleine,Lim,Production,Engineer,Member,None,None
+Amber,Hill,Sourcing,Analyst,Member,None,None
+Riley,Chambers,Sourcing,Analyst,Member,None,None
+Shawn,Jensen,Executive,COO,Member,None,None
+Lucy,Espinosa,Executive,CEO,Member,None,None
+Landon,Winters,Executive,CFO,Member,None,None
